@@ -1,0 +1,7 @@
+https://www.bootdey.com/snippets/view/chat-app
+
+https://getbootstrap.com/docs/5.2/examples/cheatsheet/#card
+
+https://getbootstrap.com/docs/5.2/examples/grid/
+
+https://getbootstrap.com/docs/5.2/examples/sidebars/#
