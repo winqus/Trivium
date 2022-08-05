@@ -43,3 +43,10 @@
   vertical-align: middle;
   background: rgb(0, 0, 0)
 }
+
+.goodAnswerQ {
+  background-color: green;
+}
+.badAnswerQ {
+  background-color: red;
+}
